@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeebruh326
+- 👋 Hi, I’m Ziyi Wang @Zeebruh326
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning software engineering at Concordia University
 - 💞️ I’m looking to collaborate on software engineering
